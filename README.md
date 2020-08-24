@@ -1,4 +1,5 @@
 # simple_blog
+app avalible on https://blogserlus.herokuapp.com/
 
 [![Build Status](https://travis-ci.org/serlus/simple_blog.svg?branch=master)](https://travis-ci.org/serlus/simple_blog)
 [![Updates](https://pyup.io/repos/github/serlus/simple_blog/shield.svg)](https://pyup.io/repos/github/serlus/simple_blog/)
